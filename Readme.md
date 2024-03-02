@@ -1,1 +1,1 @@
-!![Bubble Bit](assets/readmePoster.png)
+![Bubble Bit](assets/readmePoster.png)
